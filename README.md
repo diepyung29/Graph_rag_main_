@@ -78,9 +78,7 @@ streamlit run app.py
 - COUNTRY    → Vietnam, United States, France...
 
 ### Model sử dụng
-PhoBERT-base fine-tune trên 8.000 câu khoa học (Wikipedia + Wikidata)
-- F1-score trên test set: 0.934
-- Đã nhận diện chính xác >95% tên nhà khoa học + tổ chức
+
 
 ### Cách chạy
 python src/02_ner/infer_ner.py

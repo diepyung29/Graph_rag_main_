@@ -56,7 +56,7 @@ python graphrag/build_graph.py
 python evaluation/generate_questions.py
 
 # 5. Demo chatbot
-streamlit run app.py
+python server.py 
 
 
 
